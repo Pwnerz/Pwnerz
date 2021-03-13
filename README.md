@@ -4,8 +4,6 @@ Welcome to my Github profile! ![visitors](https://visitor-badge.glitch.me/badge?
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pwnerz&show_icons=true&hide_border=true&&count_private=true&theme=react&include_all_commits=true"/>  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwnerz&theme=react&layout=compact)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
-
 
 <!--
 **pwnerz/pwnerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
