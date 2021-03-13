@@ -1,8 +1,12 @@
 ### Hi, I'm Alex. 👋
-
+<hr>
 Welcome to my Github profile! ![visitors](https://visitor-badge.glitch.me/badge?page_id=pwnerz)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pwnerz&show_icons=true&hide_border=true&&count_private=true&theme=react&include_all_commits=true"/>  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwnerz&theme=react&layout=compact)
+<h1>My Stats</h1>
+<hr>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pwnerz&show_icons=true&hide_border=true&&count_private=true&theme=react&include_all_commits=true"/> 
+<h1>My respositories most used languages.</h1>
+<hr>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwnerz&theme=react&layout=compact)
 
 
 <!--
